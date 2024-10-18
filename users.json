@@ -1,0 +1,72 @@
+{
+    "1": {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "age": 28,
+        "city": "New York"
+    },
+    "2": {
+        "id": 2,
+        "name": "Anna Smith",
+        "email": "annasmith@example.com",
+        "age": 24,
+        "city": "Los Angeles"
+    },
+    "3": {
+        "id": 3,
+        "name": "Peter Johnson",
+        "email": "peterjohnson@example.com",
+        "age": 35,
+        "city": "Chicago"
+    },
+    "4": {
+        "id": 4,
+        "name": "Linda Taylor",
+        "email": "lindataylor@example.com",
+        "age": 32,
+        "city": "Houston"
+    },
+    "5": {
+        "id": 5,
+        "name": "Michael Brown",
+        "email": "michaelbrown@example.com",
+        "age": 29,
+        "city": "Phoenix"
+    },
+    "6": {
+        "id": 6,
+        "name": "Emily Davis",
+        "email": "emilydavis@example.com",
+        "age": 27,
+        "city": "Philadelphia"
+    },
+    "7": {
+        "id": 7,
+        "name": "James Wilson",
+        "email": "jameswilson@example.com",
+        "age": 31,
+        "city": "San Antonio"
+    },
+    "8": {
+        "id": 8,
+        "name": "Sarah Moore",
+        "email": "sarahmoore@example.com",
+        "age": 26,
+        "city": "San Diego"
+    },
+    "9": {
+        "id": 9,
+        "name": "David Clark",
+        "email": "davidclark@example.com",
+        "age": 34,
+        "city": "Dallas"
+    },
+    "10": {
+        "id": 10,
+        "name": "Jessica Lewis",
+        "email": "jessicalewis@example.com",
+        "age": 25,
+        "city": "San Jose"
+    }
+}
